@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451747774 source:e:\informatica\info_clock-2015(an 2)\trenul si porcul\main.cpp
+	<fstream>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448110928 source:e:\informatica\fmi no stress6-2015\buget\main.cpp
+	<fstream>
+	<algorithm>
+

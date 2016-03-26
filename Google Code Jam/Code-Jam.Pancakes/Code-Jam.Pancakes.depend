@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428746559 source:f:\informatica\code-jam.pancakes\main.cpp
+	<fstream>
+	<tgmath.h>
+

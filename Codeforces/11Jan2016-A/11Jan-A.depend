@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452525224 source:e:\informatica\codeforces\11jan-a\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

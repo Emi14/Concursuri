@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451057028 source:e:\informatica\codeforces\25dec-c\main.cpp
+	<iostream>
+	<cstring>
+	<stack>
+
